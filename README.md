@@ -44,6 +44,7 @@ Activity 5
 
 In activity 5, my system is managing an inventory, allowing users to view and add products and categories in a database. The app connects to a MySQL database via SQLAlchemy and requires the user to enter valid login credentials ("inventoryadmin" and "inventory123") through the sidebar. After logging in with predefined credentials, users can view and filter records from "products" or "categories" tables. The app also allows adding new records to the selected table, either products (with name, category, price, and quantity) or categories (with name and description).
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/85cdab3b086b817a8c311fc4eccb14642695cf55/Screenshot%20(206).png)
 
 
 Activity 6 
