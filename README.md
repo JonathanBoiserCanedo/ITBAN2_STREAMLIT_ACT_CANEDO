@@ -14,6 +14,9 @@ This Streamlit app begins by setting a title with st.title("FILE UPLOADER"), whi
 
 ![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/a1c01b74c5ea2bfed1867812e6a49d5defca146d/Screenshot%20(200).png)
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/da489aa9a87894d3d36d26ff83648afdc1f12f42/activity2_canedo.png)
+
+
 
 
 Activity 3 
