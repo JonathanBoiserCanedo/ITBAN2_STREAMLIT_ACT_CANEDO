@@ -48,6 +48,7 @@ In activity 5, my system is managing an inventory, allowing users to view and ad
 
 ![image alt}(https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/19d728704bd5f9ea90aaa3c48f80be43ac11f19d/activity5_canedo.png)
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/117bf28a4f3fce6cb637a721466b31504d7d1636/activity5_canedo2.png)
 
 
 Activity 6 
