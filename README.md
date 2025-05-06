@@ -59,3 +59,6 @@ Activity 6 is an app that lets you take a snapshot with your webcam. It has brig
 
 ![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/3793149d6e76eb5718ebfa75d44df96489645131/Screenshot%20(209).png)
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/7c84a9228e887ad760fd8dce1d18df969ed08ea5/activity6_canedo.png)
+
+
