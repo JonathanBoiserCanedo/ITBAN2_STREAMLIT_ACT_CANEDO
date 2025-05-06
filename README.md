@@ -2,7 +2,7 @@ Activity 1
 
 The first thing to do is to import the Streamlit library with import streamlit as st and set a title, header, and some description text on the page. We create two input fields where the user can type their email and PIN, storing their input in two variables. Thereafter, the app displays what the user entered, showing both the email and PIN along with small icons to make it visually clear.
 
-
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/7cddbe5c4020ae231d6f3f71a65d6f7e2a5b7afe/Screenshot%20(199).png)
 
 
 
