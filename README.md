@@ -12,6 +12,8 @@ Activity 2
 
 This Streamlit app begins by setting a title with st.title("FILE UPLOADER"), which displays at the top of the app. It then uses st.file_uploader() to create an upload button, allowing the user to select a CSV file. I upload the sales dataset. Additionally, there's a filtering option where you can select a column and pick a specific value from it. This helps you narrow down the data you're interested in, and the app will show you the filtered results. It provides an easy way to interact with and explore your CSV data.
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/a1c01b74c5ea2bfed1867812e6a49d5defca146d/Screenshot%20(200).png)
+
 
 
 Activity 3 
