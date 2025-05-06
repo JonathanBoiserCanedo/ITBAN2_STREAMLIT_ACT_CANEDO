@@ -36,6 +36,9 @@ In this activity it provides an interactive COVID-19 data dashboard where users 
 
 ![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/b03c2182e05af56c9e86e2607776946a13284772/Screenshot%20(204).png)
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/ade3eeec5622a7f53f46af2977daa7c10107b68e/activity4_canedo.png)
+
+
 
 Activity 5
 
