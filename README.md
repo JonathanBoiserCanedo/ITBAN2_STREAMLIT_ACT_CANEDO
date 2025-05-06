@@ -26,6 +26,8 @@ Activity 3
 In this Activity 3, I created an interactive interface for exploring data warehousing and enterprise data management topics. Users can select topics from a sidebar dropdown menu (selectbox), where users can choose from different topics. I also included tabs for additional content, such as "Real-Time Analytics" and "Cloud Data Warehousing," that provide users with deeper insights.
 
 ![mage alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/1756fe0c73a3d77ef79d65a5ccdaebb4e0d9f134/Screenshot%20(201).png)
+![imag alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/137647397e225eb20a0b14733541902f6a8670c5/activity3_canedo.png)
+
 
 
 Activity 4 
