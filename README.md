@@ -56,3 +56,6 @@ Activity 6
 
 
 Activity 6 is an app that lets you take a snapshot with your webcam. It has brightness and contrast in real time using sliders. It also applies filters like grayscale and Canny edge detection by checking a box. When you click the "Take Snapshot" button, the app captures the current frame, applies your adjustments and filters, and saves it with a timestamped filename. The video keeps playing until you take a snapshot, after which it stops, and you'll get a notification that the snapshot has been saved.
+
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/3793149d6e76eb5718ebfa75d44df96489645131/Screenshot%20(209).png)
+
