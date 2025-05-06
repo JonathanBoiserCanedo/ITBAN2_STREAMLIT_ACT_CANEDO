@@ -4,6 +4,8 @@ The first thing to do is to import the Streamlit library with import streamlit a
 
 ![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/7cddbe5c4020ae231d6f3f71a65d6f7e2a5b7afe/Screenshot%20(199).png)
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/2239a5a21501f6f1e573b32b79c05f35819b4b3f/activity1_canedo.png)
+
 
 
 Activity 2 
