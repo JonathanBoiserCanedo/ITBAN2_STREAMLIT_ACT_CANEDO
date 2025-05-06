@@ -34,6 +34,7 @@ Activity 4
 
 In this activity it provides an interactive COVID-19 data dashboard where users can select a country to view detailed statistics. I used the requests library and then processed it into a DataFrame with pandas to retrieve the COVID-19 data for the past 30 days. It computes daily new cases, deaths, and recoveries by calculating the difference in values day-over-day. The app then displays multiple charts: a line chart showing daily new cases, an area chart of cumulative cases, a dual-line chart comparing new deaths and recoveries, and a 7-day moving average of new cases. 
 
+![image alt](https://github.com/JonathanBoiserCanedo/ITBAN2_STREAMLIT_ACT_CANEDO/blob/b03c2182e05af56c9e86e2607776946a13284772/Screenshot%20(204).png)
 
 
 Activity 5
